@@ -1,4 +1,3 @@
-# Challenge-Conversor-de-Monedas
 # 🪙 Conversor de Monedas en Java
 
 Este es un proyecto desarrollado para el desafío del programa Oracle Next Education (ONE) y Alura Latam. Es una aplicación de consola en Java que realiza conversiones de divisas en tiempo real utilizando la Exchange Rate API.
